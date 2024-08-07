@@ -8,3 +8,4 @@ Lavoro agile, FB
 3) include un template riutilizzabile
 4) Il progetto non è disponibile qui; a richiesta in apposito repository privato
 5) le istruzioni per l'uso del template sono all'interno del template stesso
+6) videotutorial sulla produzione di un form tramite MsForms: https://videotutorial.uniud.it/node/178
