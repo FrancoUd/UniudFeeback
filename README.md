@@ -7,3 +7,4 @@ Lavoro agile, FB
 2) include un metodo per presentazione "user-friendly" del Form
 3) include un template riutilizzabile
 4) Il progetto non è disponibile qui; a richiesta in apposito repository privato
+5) le istruzioni per l'uso del template sono all'interno del template stesso
