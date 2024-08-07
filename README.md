@@ -1,6 +1,6 @@
 # UniudFeeback
 
-Progetto "Feebback" in UniUd
+Progetto "Feedback" in UniUd
 Lavoro agile, FB
 
 1) progetto per produrre un "form" di feedback dei miai (personali) interventi presso l'utenza
