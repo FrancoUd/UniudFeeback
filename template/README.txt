@@ -1,5 +1,5 @@
 ---readme---
-In questo zip file è contenuto un ESEMPIO di un file html che, tramite IFRAME, incorpora
+In questo folder è contenuto un ESEMPIO di un file html che, tramite IFRAME, incorpora
 un form MicrosoftForm con la possibilità di gestire anteprima grafica e testuale.
 
 Va completato per funzionare.
